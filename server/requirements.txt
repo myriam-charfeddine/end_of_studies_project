@@ -1,0 +1,10 @@
+Flask==3.0.3
+langgraph==0.2.38
+librosa==0.10.1
+ollama==0.3.3
+protobuf==5.28.2
+python-dotenv==1.0.1
+selenium==4.25.0
+SpeechRecognition==3.10.3
+torch==2.3.0+cu118
+transformers==4.39.3
