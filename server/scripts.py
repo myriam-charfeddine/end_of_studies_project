@@ -24,7 +24,7 @@ class FirefoxScriptAutomation():
 
     def run_pts_with_selenium(self):
         try:
-            self.driver.get('https://pts.thinktank.de/executeWelcomRequest.do')
+            self.driver.get('')
             #get the first tab name
             self.first_tab = self.driver.window_handles[-1]
             self.feedback = "Logged in successfully"
